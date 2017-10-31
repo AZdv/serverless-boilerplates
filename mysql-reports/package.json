@@ -1,0 +1,6 @@
+{
+  "name": "mysql-reports",
+  "dependencies": {
+    "mysql": "^v2.15.0"
+  }
+}
